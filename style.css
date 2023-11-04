@@ -1,0 +1,21 @@
+* {
+   background-color: beige;
+}
+
+.text1 {
+    color: salmon;
+}
+
+.text2 {
+    color: navy;
+}
+
+#title {
+    color:saddlebrown;
+    font-family: "Courier New";
+}
+
+#name {
+    color:blueviolet;
+    font-family: "Impact";
+}
